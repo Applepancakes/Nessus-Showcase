@@ -1,8 +1,11 @@
 # Vulnerablity management via Nessus security tool
 
+
+Here in this lab, we will be showcasing Vulnerablity assessment, managment, and remeditation.
+
+This is simply a windows 10 VM, fresh image.
+We see in these 2 images that there are minor alerts as well as notices indicating what device information is visible(manufacture information and Mac address are both visible) 
 ![image6](https://github.com/Applepancakes/Nessus-Showcase/assets/158091426/1343c41c-3ce3-448a-8c3e-97ae03beb2d2)
-
-
 
 
 ![image5](https://github.com/Applepancakes/Nessus-Showcase/assets/158091426/cd3e53bc-4b38-48e6-9db3-9611c6327c97)
