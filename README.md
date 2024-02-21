@@ -11,7 +11,7 @@ We see in these 2 images that there are minor alerts as well as notices indicati
 ![image5](https://github.com/Applepancakes/Nessus-Showcase/assets/158091426/cd3e53bc-4b38-48e6-9db3-9611c6327c97)
 
 
-
+Note, these 2 initial scans did not use Nessus's credential scan feature. These 
 
 ![2ndscan](https://github.com/Applepancakes/Nessus-Showcase/assets/158091426/b2ffd809-42ce-49a5-8a7a-1396d129956c)
 
