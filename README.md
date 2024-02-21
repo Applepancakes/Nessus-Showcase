@@ -32,7 +32,7 @@ We can look in each vulnerablity in more detail to see what specifically is an i
 
 ![3ndscan3](https://github.com/Applepancakes/Nessus-Showcase/assets/158091426/4134b5ae-d79d-4ba5-814d-a30c5e99162a)
 
-With the risks assessed, we can go in to the remediation and ensure device security. Update 
+With the risks assessed, we can go in to the remediation and ensure device security. Logically update, update, update. 
 
 ![3rdscan4](https://github.com/Applepancakes/Nessus-Showcase/assets/158091426/44e53114-4615-41f7-b10a-2d08cedae1ff)
 
